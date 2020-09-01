@@ -27,7 +27,7 @@ module.exports = {
       const commands = await client.commands;
 
       let emx = new MessageEmbed()
-        .setTitle("**__Sparks Generals v1.0__ \n help,ping,imdb/anime,invite,snipe,stats[ComingSoon],meme,avatar,corona,hug,math,spotify,slowmode,suggest**")
+        .setTitle("**__BOT v1.0__ \n help,ping,imdb/anime,invite,snipe,stats[ComingSoon],meme,avatar,corona,hug,math,spotify,slowmode,suggest**")
         .setColor("ffed00")
         .setFooter(client.user.username, client.user.displayAvatarURL())
         .setThumbnail(client.user.displayAvatarURL());
